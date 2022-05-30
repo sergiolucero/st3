@@ -1,0 +1,101 @@
+paciente,comuna,fecha,medica
+Sergio,La Florida,2022-09-02,Aspirina
+Pedro,Ñuñoa,2022-12-27,Levodopa
+Pedro,Ñuñoa,2022-11-26,Paracetamol
+Pedro,Ñuñoa,2022-11-22,Aspirina
+Maria,Contulmo,2022-09-21,Aspirina
+Sergio,Providencia,2022-07-02,Aspirina
+Sergio,Contulmo,2022-11-12,Levodopa
+Pedro,La Florida,2022-08-18,Aspirina
+Maria,Ñuñoa,2022-07-09,Levodopa
+Sergio,Ñuñoa,2022-09-09,Aspirina
+Pedro,La Florida,2022-12-30,Levodopa
+Pedro,Ñuñoa,2022-06-06,Paracetamol
+Pedro,Ñuñoa,2022-01-02,Paracetamol
+Maria,Contulmo,2022-07-20,Aspirina
+Maria,Ñuñoa,2022-12-11,Levodopa
+Pedro,Providencia,2022-10-12,Aspirina
+Juana,Ñuñoa,2022-02-09,Paracetamol
+Maria,La Florida,2022-08-09,Aspirina
+Pedro,Contulmo,2022-01-22,Levodopa
+Juana,Contulmo,2022-01-27,Aspirina
+Pedro,La Florida,2022-03-22,Aspirina
+Sergio,La Florida,2022-11-16,Aspirina
+Pedro,Providencia,2022-11-17,Paracetamol
+Maria,La Florida,2022-12-15,Aspirina
+Maria,Providencia,2022-06-17,Levodopa
+Sergio,Ñuñoa,2022-03-20,Levodopa
+Pedro,La Florida,2022-09-20,Paracetamol
+Sergio,La Florida,2022-01-23,Paracetamol
+Maria,Providencia,2022-11-03,Aspirina
+Maria,Contulmo,2022-05-05,Paracetamol
+Juana,Ñuñoa,2022-01-26,Paracetamol
+Juana,La Florida,2022-02-18,Aspirina
+Juana,Providencia,2022-02-09,Levodopa
+Maria,Contulmo,2022-05-14,Aspirina
+Pedro,Contulmo,2022-02-02,Paracetamol
+Sergio,Providencia,2022-09-17,Paracetamol
+Maria,Ñuñoa,2022-06-17,Levodopa
+Pedro,La Florida,2022-08-06,Levodopa
+Juana,La Florida,2022-01-21,Paracetamol
+Sergio,Contulmo,2022-11-25,Paracetamol
+Pedro,Providencia,2022-10-15,Aspirina
+Maria,Providencia,2022-12-08,Aspirina
+Juana,Contulmo,2022-11-29,Aspirina
+Pedro,Contulmo,2022-09-06,Paracetamol
+Maria,La Florida,2022-07-11,Paracetamol
+Sergio,La Florida,2022-02-26,Paracetamol
+Juana,La Florida,2022-02-26,Aspirina
+Pedro,Ñuñoa,2022-06-18,Paracetamol
+Maria,La Florida,2022-06-25,Paracetamol
+Sergio,Providencia,2022-11-25,Aspirina
+Maria,Providencia,2022-10-01,Paracetamol
+Maria,Providencia,2022-10-25,Paracetamol
+Sergio,Contulmo,2022-07-15,Aspirina
+Maria,Contulmo,2022-08-24,Aspirina
+Sergio,Contulmo,2022-07-16,Aspirina
+Pedro,La Florida,2022-10-29,Paracetamol
+Sergio,Providencia,2022-02-12,Aspirina
+Maria,Contulmo,2022-10-13,Aspirina
+Sergio,La Florida,2022-06-02,Aspirina
+Maria,Ñuñoa,2022-08-10,Paracetamol
+Pedro,Providencia,2022-06-18,Aspirina
+Pedro,Providencia,2022-12-20,Levodopa
+Juana,Ñuñoa,2022-08-21,Aspirina
+Juana,Contulmo,2022-07-30,Aspirina
+Pedro,Contulmo,2022-02-02,Levodopa
+Sergio,La Florida,2022-04-06,Aspirina
+Maria,Ñuñoa,2022-09-11,Aspirina
+Maria,Providencia,2022-10-02,Paracetamol
+Pedro,La Florida,2022-06-17,Levodopa
+Maria,Contulmo,2022-07-25,Paracetamol
+Sergio,Providencia,2022-06-25,Levodopa
+Juana,Contulmo,2022-08-06,Aspirina
+Sergio,Providencia,2022-01-13,Paracetamol
+Sergio,Ñuñoa,2022-10-26,Paracetamol
+Juana,Ñuñoa,2022-12-07,Paracetamol
+Sergio,Ñuñoa,2022-06-10,Levodopa
+Maria,Ñuñoa,2022-02-18,Aspirina
+Pedro,Ñuñoa,2022-04-09,Paracetamol
+Sergio,Ñuñoa,2022-05-21,Levodopa
+Maria,La Florida,2022-07-02,Paracetamol
+Juana,Ñuñoa,2022-09-15,Aspirina
+Pedro,Providencia,2022-02-16,Levodopa
+Maria,Contulmo,2022-03-09,Aspirina
+Sergio,La Florida,2022-04-21,Aspirina
+Juana,Ñuñoa,2022-07-18,Levodopa
+Juana,Contulmo,2022-08-01,Aspirina
+Sergio,Providencia,2022-10-03,Levodopa
+Sergio,Ñuñoa,2022-02-12,Paracetamol
+Juana,Ñuñoa,2022-10-01,Levodopa
+Maria,La Florida,2022-07-02,Aspirina
+Sergio,Providencia,2022-06-29,Paracetamol
+Juana,Contulmo,2022-04-29,Levodopa
+Juana,Contulmo,2022-06-13,Paracetamol
+Maria,Ñuñoa,2022-09-18,Paracetamol
+Maria,Providencia,2022-11-30,Paracetamol
+Maria,Providencia,2022-07-30,Levodopa
+Pedro,Contulmo,2022-01-11,Levodopa
+Juana,Ñuñoa,2022-02-02,Levodopa
+Pedro,Contulmo,2022-05-11,Aspirina
+Sergio,La Florida,2022-10-17,Paracetamol
